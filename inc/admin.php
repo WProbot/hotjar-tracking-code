@@ -2,7 +2,7 @@
 /**
  * Admin facing features.
  *
- * @package Google_Analytics_Tracking_Code
+ * @package Hotjar_Tracking_Code
  */
 
 // If this file is called directly, abort.

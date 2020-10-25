@@ -7,9 +7,9 @@
  * Author URI:      https://github.com/claytoncollie
  * Text Domain:     hotjar-tracking-code
  * Domain Path:     /languages
- * Version:         0.1.0
+ * Version:         1.0.0
  *
- * @package         Content_Pilot_Instant_Search
+ * @package         Hotjar_Tracking_Code
  */
 
 // If this file is called directly, abort.
